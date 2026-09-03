@@ -57,17 +57,17 @@ turfly-frontend/
 
 ## 📸 Application Screenshots
 
-1. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/1.png)
+1. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(1).png)
 
-2. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/2.png)
+2. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(2).png)
 
-3. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/3.png)
+3. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(3).png)
 
-4. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/4.png)
+4. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(4).png)
 
-5. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/5.png)
+5. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(5).png)
 
-6. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/6.png)
+6. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(6).png)
 
 ## 🚀 Getting Started
 
