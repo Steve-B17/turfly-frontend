@@ -1,6 +1,6 @@
 # Turfly Frontend
 
-A modern React-based frontend application for the Turfly platform. Built with Vite, React 19, and Tailwind CSS, this application provides an intuitive user interface with seamless API integration to the Turfly backend.
+A modern React-based frontend application for the Turfly platform. Built with Vite, React 19, and Tailwind CSS, this application provides an intuitive user interface with seamless API integration to deliver a superior user experience.
 
 ## 🚀 Live Demo
 
@@ -8,7 +8,7 @@ A modern React-based frontend application for the Turfly platform. Built with Vi
 
 ## 📋 Overview
 
-Turfly Frontend is a contemporary web application built with the latest React and web technologies. It delivers a responsive, performant user experience with beautiful styling powered by Tailwind CSS and smooth routing with React Router.
+Turfly Frontend is a contemporary web application built with the latest React and web technologies. It delivers a responsive, performant user experience with beautiful styling powered by Tailwind CSS. The application is designed with a mobile-first approach and optimized for all device sizes.
 
 ## 🛠️ Technology Stack
 
@@ -57,42 +57,40 @@ turfly-frontend/
 
 ## 📸 Application Screenshots
 
-### Login/Authentication Screen
-```
-[ Screenshot: User login page with email and password fields ]
-- Clean, modern form design
-- Error handling and validation
-- Link to registration page
-- Password visibility toggle
-```
+### 🔐 Authentication & Login
+Login screen with secure credential entry and validation. Clean, intuitive form design with password visibility toggle and links to registration and password recovery.
 
-### Dashboard/Home Screen
-```
-[ Screenshot: Main dashboard view with key information ]
-- User profile overview
-- Navigation menu
-- Key metrics display
-- Quick action buttons
-```
+![Login Screen](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/login.svg)
 
-### Main Application Interface
-```
-[ Screenshot: Core feature interface ]
-- Sidebar navigation
-- Content area with primary features
-- User controls and settings
-- Responsive layout for mobile
-```
+### 🏠 Dashboard Overview
+Main dashboard providing a comprehensive overview of key metrics, user profile information, and quick access to primary features.
 
-### Mobile View
-```
-[ Screenshot: Mobile-optimized interface ]
-- Hamburger menu navigation
-- Touch-friendly controls
-- Optimized spacing and sizing
-```
+![Dashboard Overview](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(1).png)
 
-*Note: Add actual application screenshots to the `/docs/screenshots` directory and update URLs above*
+### 📊 Main Application Interface
+Core feature interface with sidebar navigation, content management area, and user controls. Demonstrates the primary workflow and data visualization.
+
+![Main Interface](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(2).png)
+
+### 🎯 Features & Functionality
+Detailed view of application features and functionality with organized content sections and interactive components.
+
+![Features View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(3).png)
+
+### ⚙️ Settings & Configuration
+User settings and configuration panel allowing customization of application preferences and account management.
+
+![Settings Panel](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(4).png)
+
+### 📱 Mobile Responsive View
+Mobile-optimized interface demonstrating responsive design with hamburger menu navigation and touch-friendly controls.
+
+![Mobile View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(5).png)
+
+### 🔔 Notifications & Alerts
+Notification center displaying system alerts, user messages, and important updates with priority-based filtering.
+
+![Notifications](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(6).png)
 
 ## 🚀 Getting Started
 
