@@ -57,38 +57,17 @@ turfly-frontend/
 
 ## 📸 Application Screenshots
 
-### 🔐 Authentication & Login
-Login screen with secure credential entry and validation. Clean, intuitive form design with password visibility toggle and links to registration and password recovery.
-
 ![Login Screen](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/login.svg)
-
-### 🏠 Dashboard Overview
-Main dashboard providing a comprehensive overview of key metrics, user profile information, and quick access to primary features.
 
 ![Dashboard Overview](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/dashboard.png)
 
-### 📊 Main Application Interface
-Core feature interface with sidebar navigation, content management area, and user controls. Demonstrates the primary workflow and data visualization.
-
 ![Main Interface](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/main-interface.png)
-
-### 🎯 Features & Functionality
-Detailed view of application features and functionality with organized content sections and interactive components.
 
 ![Features View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/features.png)
 
-### ⚙️ Settings & Configuration
-User settings and configuration panel allowing customization of application preferences and account management.
-
 ![Settings Panel](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/settings.png)
 
-### 📱 Mobile Responsive View
-Mobile-optimized interface demonstrating responsive design with hamburger menu navigation and touch-friendly controls.
-
 ![Mobile View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/mobile.png)
-
-### 🔔 Notifications & Alerts
-Notification center displaying system alerts, user messages, and important updates with priority-based filtering.
 
 ![Notifications](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/notifications.png)
 
