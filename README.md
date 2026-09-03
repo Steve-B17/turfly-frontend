@@ -57,19 +57,17 @@ turfly-frontend/
 
 ## 📸 Application Screenshots
 
-![Login Screen](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/login.svg)
+1. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/1.png)
 
-![Dashboard Overview](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/dashboard.png)
+2. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/2.png)
 
-![Main Interface](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/main-interface.png)
+3. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/3.png)
 
-![Features View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/features.png)
+4. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/4.png)
 
-![Settings Panel](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/settings.png)
+5. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/5.png)
 
-![Mobile View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/mobile.png)
-
-![Notifications](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/notifications.png)
+6. ![Screenshot](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/6.png)
 
 ## 🚀 Getting Started
 
