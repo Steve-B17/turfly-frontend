@@ -1,6 +1,6 @@
 # Turfly Frontend
 
-A modern React-based frontend application for the Turfly platform. Built with Vite, React 19, and Tailwind CSS, this application provides an intuitive user interface with seamless API integration to deliver a superior user experience.
+A modern React-based frontend application for the Turfly platform. Built with Vite, React 19, and Tailwind CSS, this application provides an intuitive user interface with seamless API integration that connects to the robust Turfly backend.
 
 ## 🚀 Live Demo
 
@@ -8,7 +8,7 @@ A modern React-based frontend application for the Turfly platform. Built with Vi
 
 ## 📋 Overview
 
-Turfly Frontend is a contemporary web application built with the latest React and web technologies. It delivers a responsive, performant user experience with beautiful styling powered by Tailwind CSS. The application is designed with a mobile-first approach and optimized for all device sizes.
+Turfly Frontend is a contemporary web application built with the latest React and web technologies. It delivers a responsive, performant user experience with beautiful styling powered by Tailwind CSS. The application features JWT-based authentication, dynamic routing, and seamless integration with the Turfly backend API.
 
 ## 🛠️ Technology Stack
 
@@ -65,32 +65,32 @@ Login screen with secure credential entry and validation. Clean, intuitive form 
 ### 🏠 Dashboard Overview
 Main dashboard providing a comprehensive overview of key metrics, user profile information, and quick access to primary features.
 
-![Dashboard Overview](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(1).png)
+![Dashboard Overview](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/dashboard.png)
 
 ### 📊 Main Application Interface
 Core feature interface with sidebar navigation, content management area, and user controls. Demonstrates the primary workflow and data visualization.
 
-![Main Interface](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(2).png)
+![Main Interface](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/main-interface.png)
 
 ### 🎯 Features & Functionality
 Detailed view of application features and functionality with organized content sections and interactive components.
 
-![Features View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(3).png)
+![Features View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/features.png)
 
 ### ⚙️ Settings & Configuration
 User settings and configuration panel allowing customization of application preferences and account management.
 
-![Settings Panel](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(4).png)
+![Settings Panel](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/settings.png)
 
 ### 📱 Mobile Responsive View
 Mobile-optimized interface demonstrating responsive design with hamburger menu navigation and touch-friendly controls.
 
-![Mobile View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(5).png)
+![Mobile View](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/mobile.png)
 
 ### 🔔 Notifications & Alerts
 Notification center displaying system alerts, user messages, and important updates with priority-based filtering.
 
-![Notifications](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/(6).png)
+![Notifications](https://raw.githubusercontent.com/Steve-B17/turfly-frontend/main/docs/screenshots/notifications.png)
 
 ## 🚀 Getting Started
 
