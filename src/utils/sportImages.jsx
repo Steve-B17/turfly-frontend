@@ -8,7 +8,7 @@ const sportImages = {
   Tennis:
     "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=800&q=60",
   Badminton:
-    "https://images.unsplash.com/photo-1613918431703-aa50889ee2a4?auto=format&fit=crop&w=800&q=60",
+    "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=800&q=60",
   Volleyball:
     "https://images.unsplash.com/photo-1592656094267-764a45160876?auto=format&fit=crop&w=800&q=60",
 };
